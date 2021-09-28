@@ -1,0 +1,23 @@
+{
+  "name": "ejercicio1isw811",
+  "version": "1.0.0",
+  "description": "Primer ejercicio del curso 811 - ISW 2021",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbadilla98/Ejercicio1ISW811.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbadilla98/Ejercicio1ISW811/issues"
+  },
+  "homepage": "https://github.com/cbadilla98/Ejercicio1ISW811#readme"
+}
