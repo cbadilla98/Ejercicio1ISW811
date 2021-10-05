@@ -4,7 +4,8 @@
   "description": "Primer ejercicio del curso 811 - ISW 2021",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9"
   },
   "devDependencies": {},
   "scripts": {
